@@ -78,6 +78,70 @@ Sprint Review katılımcıları:
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
 
+ **Daily Scrum Özetleri**
+
+- **09.05.2022**
+• Toplantı Google Meet üzerinden gerçekleştirildi.
+• Developerlar 2.sprint için görev dağılımı yaptılar.
+• Sprint takvimi takım elemanları tarafından incelendi.
+
+- **10.05.2022**
+• Toplantı Google Meet üzerinden gerçekleştirildi.
+• Ana ekran rengi yeşil-beyaz olarak ayarlandı.
+
+- **11.05.2022**
+• Toplantı Google Meet üzerinden gerçekleştirildi.
+• Ana ekran widget yerleşimi yapılmaya başlandı.
+
+- **12.05.2022**
+• Toplantı Google Meet üzerinden gerçekleştirildi.
+• Ana ekrana Appbar,Scaffold widgetları eklendi.
+
+- **13.05.2022**
+• Toplantı Google Meet üzerinden gerçekleştirildi.
+• Kayıt sayfasının temasında kullanılan renkler için constants.dart oluşturuldu ve renkler belirlendi.
+
+- **14.05.2022**
+• Toplantı WhatsApp üzerinden gerçekleştirildi.
+• Arkaplan görünümü ve rengi için background class’ında asset’ler yüklendi ve renkler belirlendi. Pubspecyaml’da assetler kısmına eklendi.
+
+- **15.05.2022**
+• Toplantı WhatsApp üzerinden gerçekleştirildi.
+• Ana ekrana karanlık mod özelliği eklendi.
+
+- **16.05.2022**
+• Toplantı Slack üzerinden gerçekleştirildi.
+• Projenin ilerieme durumu developerlar tarafından konuşuldu.Genel değerlendirme yapıldı.
+
+- **17.05.2022**
+• Toplantı Google Meet üzerinden gerçekleştirildi.
+• 3 ekrandan oluşacak sayfanın giriş sayfasına başlandı.Giriş sayfası için welcome_vetpet widget’ı oluşturuldu.
+
+- **18.05.2022**
+• Toplantı WhatsApp üzerinden gerçekleştirildi.
+• RoundedButton için Widget oluşturuldu. “Kayıt ol” ve “Giriş Yap” butonları oluşturuldu. RoundedButton class’ı içerisinde butonların çerçevesinin kalınlığı, şekli,rengi eklendi.
+
+- **19.05.2022**
+• Toplantı Google Meet üzerinden gerçekleştirildi.
+• Projenin ilerieme durumu developerlar tarafından konuşuldu.Genel değerlendirme yapıldı.
+
+- **20.05.2022**
+• Toplantı Slack üzerinden gerçekleştirildi.
+• ‘Kayıt ol’ butonuna tıklanıldığında kayıt sayfasına geçiş yapılması için LoginScreen class’ı oluşturuldu.Kullancının e-mail ve şifre bilgilerini girebilmeleri için TextField widget’ları oluşturuldu ve butonlara renk,şekil bilgileri atandı.
+
+- **21.05.2022**
+• Toplantı Google Meet üzerinden gerçekleştirildi.
+• Şu ana kadar projede yapılanlar değerlendirildi.
+• Proje gidişatı  ve takvim hakkında konuşuldu.
+
+- **22.05.2022**
+• Toplantı Google Meet üzerinden gerçekleştirildi.
+• İkinci sprint sonu takım değerlendirilmesi yapıldı.
+• Yapılan görevler ve sonraki sprintde yapılacaklar hakkında konuşuldu.
+• Retrospective sonuçlarının yazılması
+
+
+
 -**Diğer Notlar**:
 - N/A
 
