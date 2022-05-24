@@ -78,6 +78,43 @@ Sprint Review katılımcıları:
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
 
+-**Diğer Notlar**:
+- N/A
+
+---
+
+# Sprint 2
+
+- **Sprint Notları**: VetPet için gerekli olan özellikler üzerine konuşuldu. Yazılım sürecine başlanıldı ve kayıt/giriş ekranı tamamlandı. Sonraki Sprint için yapılacak olan tüm yazılım ve iş planı süreci tartışıldı. Toplantılar Google Meet üzerinden yapılırken istişareler whatsapp ve slack üzerinden gerçekleştirildi.
+
+- **Sprint 1 içinde tamamlanması tahmin edilen puan**: 140 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 1inci Sprint'de 100 puan 2inci Sprint'de ise 140 puan hedefledik ve bu hedeflerimizi de gerçekleştirerek toplamda 240 puanı topladık.
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack ve Whatsapp üzerinden yapılmasına karar verilmiştir. Birebir toplantılar ile Google Meet üzerinden yapılmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/Sprint2-DailyScrum.docx)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/Sprint2-burn.png) 
+![Backlog 2](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/Sprint2.png) 
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/Vetpet-login.jpeg?raw=true)
+ 
+
+- **Sprint Review**: 
+Uygulama özellikleri, uygulama tasarımı, uygulama logosu ve hedef kitlesi ile ilgili süreçler tamamlanmıştır. Giriş ve Kaydolma seçenekleri ile ilgili görüşler belirtilmiştir. 
+
+Sprint Review katılımcıları: 
+- Atakan Osman Atasoy: Product Owner
+- Şevval Ayça Çerence:Scrum Master 
+- Candan Cemre Balcı: Developer
+- İlker Elal: Developer
+- Ahmet Semih Baktır: Developer
+
+- **Sprint Retrospective:**
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+
  **Daily Scrum Özetleri**
 
 - **09.05.2022**
@@ -140,15 +177,21 @@ Sprint Review katılımcıları:
 - • Yapılan görevler ve sonraki sprintde yapılacaklar hakkında konuşuldu.
 - • Retrospective sonuçlarının yazılması
 
+- **Sprint Review**: 
+Uygulama özellikleri, uygulama tasarımı, uygulama logosu ve hedef kitlesi ile ilgili süreçler tamamlanmıştır. Giriş ve Kaydolma seçenekleri ile ilgili görüşler belirtilmiştir. 
 
+Sprint Review katılımcıları: 
+- Atakan Osman Atasoy: Product Owner
+- Şevval Ayça Çerence:Scrum Master 
+- Candan Cemre Balcı: Developer
+- İlker Elal: Developer
+- Ahmet Semih Baktır: Developer
+
+- **Sprint Retrospective:**
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
 
 -**Diğer Notlar**:
 - N/A
-
----
-
-# Sprint 2
-
 
 ---
 
