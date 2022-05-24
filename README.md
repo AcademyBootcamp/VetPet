@@ -56,14 +56,14 @@ Evcil dostlarımız için veteriner klinik pazar yeri
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/Bootcamp%20Daily%20Scrum.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/backlog1.PNG) 
-![Backlog 2](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/burndown%20sprint1.PNG) 
+- ![Backlog 1](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/backlog1.PNG) 
+- ![Backlog 2](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/burndown%20sprint1.PNG) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/01.png?raw=true)
-  ![Screenshot 2](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/02.png?raw=true)
-  ![Screenshot 2](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/03.png?raw=true)
-  ![Screenshot 2](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/04.png?raw=true)
+- ![Screenshot 1](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/01.png?raw=true)
+-  ![Screenshot 2](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/02.png?raw=true)
+-  ![Screenshot 2](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/03.png?raw=true)
+-  ![Screenshot 2](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/04.png?raw=true)
 
 - **Sprint Review**: 
 Uygulama özellikleri, uygulama tasarımı, uygulama logosu ve hedef kitlesi ile ilgili süreçler tamamlanmıştır. Giriş ve Kaydolma seçenekleri ile ilgili görüşler belirtilmiştir. 
