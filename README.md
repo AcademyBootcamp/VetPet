@@ -207,8 +207,8 @@ Sprint Review katılımcıları:
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack ve Whatsapp üzerinden yapılmasına karar verilmiştir. Birebir toplantılar ile Google Meet üzerinden yapılmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/Sprint3-DailyScrum.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-- ![Backlog 1](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/sprint3-burndown.png) 
-- ![Backlog 2](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/sprint3.png) 
+- ![Backlog 1](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/sprint3.PNG) 
+- ![Backlog 2](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/sprint3-burndown.PNG) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
  - ![Screenshot 1](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/vetpet-app-video.mp4?raw=true)
