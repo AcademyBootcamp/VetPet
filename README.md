@@ -211,7 +211,7 @@ Sprint Review katılımcıları:
 - ![Backlog 2](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/sprint3-burndown.PNG) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
- - ![Screenshot 1](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/vetpet-app-video.mp4?raw=true)
+ - ![Videoyu İndir](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/vetpet-app-video.mp4?raw=true)
  
 
 - **Sprint Review**: 
