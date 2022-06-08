@@ -197,4 +197,112 @@ Sprint Review katılımcıları:
 
 # Sprint 3
 
+- **Sprint Notları**: VetPet için gerekli olan özellikler üzerine konuşuldu. Yazılım sürecine başlanıldı ve kayıt/giriş ekranı tamamlandı. Sonraki Sprint için yapılacak olan tüm yazılım ve iş planı süreci tartışıldı. Toplantılar Google Meet üzerinden yapılırken istişareler whatsapp ve slack üzerinden gerçekleştirildi.
+
+- **Sprint 1 içinde tamamlanması tahmin edilen puan**: 140 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 1inci Sprint'de 100 puan 2inci Sprint'de ise 140 puan hedefledik ve bu hedeflerimizi de gerçekleştirerek toplamda 240 puanı topladık.
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack ve Whatsapp üzerinden yapılmasına karar verilmiştir. Birebir toplantılar ile Google Meet üzerinden yapılmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/Sprint3-DailyScrum.docx)
+
+- **Sprint board update**: Sprint board screenshotları: 
+- ![Backlog 1](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/sprint3-burndown.png) 
+- ![Backlog 2](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/sprint3.png) 
+
+- **Ürün Durumu**: Ekran görüntüleri:
+ - ![Screenshot 1](https://github.com/AcademyBootcamp/VetPet/blob/main/ProductManagement/vetpet-app-video.mp4?raw=true)
+ 
+
+- **Sprint Review**: 
+Uygulama özellikleri, uygulama tasarımı, uygulama logosu ve hedef kitlesi ile ilgili süreçler tamamlanmıştır. Giriş ve Kaydolma seçenekleri ile ilgili görüşler belirtilmiştir. 
+
+Sprint Review katılımcıları: 
+- Atakan Osman Atasoy: Product Owner
+- Şevval Ayça Çerence:Scrum Master 
+- Candan Cemre Balcı: Developer
+- İlker Elal: Developer
+- Ahmet Semih Baktır: Developer
+
+- **Sprint Retrospective:**
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+
+ **Daily Scrum Özetleri**
+
+- **23.05.2022**
+- • Toplantı Google Meet üzerinden gerçekleştirildi.
+- • Developerlar 2.sprint için görev dağılımı yaptılar.
+- • Sprint takvimi takım elemanları tarafından incelendi.
+
+- **24.05.2022**
+- •	Toplantı Google Meet üzerinden gerçekleştirildi.
+- •	Uygulamaya girerken  AlreadyHaveAnAccountCheck class’ında zaten hesaplarının olup olmadığını soran text kısmı eklendi,sign up,sign in koşulu kondu.
+
+
+- **25.05.2022**
+- • Toplantı Google Meet üzerinden gerçekleştirildi.
+- •	Kullanılacak twitter,facebook,google icon’ları için margin,padding,decoration, ve boxshape ayaları socalicon class’ında yapıldı.
+
+- **26.05.2022**
+- • Toplantı Google Meet üzerinden gerçekleştirildi.
+- • •	Takım elemanları genel değerlendirme yaptı.
+
+- **27.05.2022**
+- • Toplantı Google Meet üzerinden gerçekleştirildi.
+- •	Şifre giriş kısmı için RoundedPasswordField class’ı oluşturuldu. hintText “Password” olarak konuldu ve ayarlanarak girilecek text’i saklaması için obscureText:true yapıldı.
+
+- **28.05.2022**
+- • Toplantı WhatsApp üzerinden gerçekleştirildi.
+- • •	Takım elemanları genel değerlendirme yaptı.
+
+- **29.05.2022**
+- • Toplantı WhatsApp üzerinden gerçekleştirildi.
+- • •	Kayıt sayfası için body class’ı oluşturularak kullanılacak asset’ler eklendi. E-mail ve şifre girişi için Rounded corner’lı textbox alanı oluşturuldu
+
+- **30.05.2022**
+- • Toplantı Slack üzerinden gerçekleştirildi.
+- • •	Projenin ilerieme durumu developerlar tarafından konuşuldu.Genel değerlendirme yapıldı.
+
+- **31.05.2022**
+- • Toplantı Google Meet üzerinden gerçekleştirildi.
+- • •	TextFieldContainer class’ı oluşturuldu ve margin,padding,renk özellikleri ayarlandı.
+
+- **1.06.2022**
+- • Toplantı WhatsApp üzerinden gerçekleştirildi.
+- • •	Takım elemanları genel değerlendirme yaptı.
+
+- **2.06.2022**
+- • Toplantı Google Meet üzerinden gerçekleştirildi.
+- •	Projenin ilerieme durumu developerlar tarafından konuşuldu.Genel değerlendirme yapıldı
+
+- **3.06.2022**
+- • Toplantı Slack üzerinden gerçekleştirildi.
+- • •	Takım elemanları genel değerlendirme yaptı.
+
+- **4.06.2022**
+- • Toplantı Google Meet üzerinden gerçekleştirildi.
+- • Şu ana kadar projede yapılanlar değerlendirildi.
+- • Proje gidişatı  ve takvim hakkında konuşuldu.
+
+- **5.06.2022**
+•	Toplantı Google Meet üzerinden gerçekleştirildi.
+•	Üçüncü sprint sonu takım değerlendirilmesi yapıldı.
+•	Yapılan görevler hakkında konuşuldu.
+•	Retrospective sonuçlarının yazılması
+
+
+Sprint katılımcıları: 
+- Atakan Osman Atasoy: Product Owner
+- Şevval Ayça Çerence:Scrum Master 
+- Candan Cemre Balcı: Developer
+- İlker Elal: Developer
+- Ahmet Semih Baktır: Developer
+
+- **Sprint Retrospective:**
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+
+-**Diğer Notlar**:
+- N/A
+
 ---
+
